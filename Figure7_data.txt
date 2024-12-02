@@ -1,0 +1,7 @@
+PGS_R2	GWAS	Model
+0.0772429	GxAge	PGS*Age
+0.0771337	GxAge	MainOnly
+0.07188927	Main	PGS*Age
+0.07153559	Main	MainOnly
+0.03025286	AgeQuartileStratified	PGS*Age
+0.02993551	AgeQuartileStratified	MainOnly
