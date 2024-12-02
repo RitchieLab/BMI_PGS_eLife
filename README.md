@@ -5,4 +5,4 @@ Figure_code.R #code for all figures <br />
 *_data.txt #data for each figure <br />
 *.py #code for machine learning models <br />
 
-Data files with individual-level data not uploaded due to privacy
+Data files with individual-level data not uploaded due to privacy restrictions
